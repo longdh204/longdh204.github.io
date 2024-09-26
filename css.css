@@ -1,0 +1,32 @@
+.card{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+.card-title ,.card-text{
+    text-align: center;
+    margin-top: 10px;
+}
+.it1,.it2{
+    width: 50%;
+}
+.it2{
+    text-align: end;
+}
+.card-body{
+    display: flex;
+    flex-direction: row;
+    margin-top: -25px;
+}
+.custom-card-body{
+    background-color: red;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+.contact img{
+    margin-top: 5px;
+}
